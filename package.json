@@ -33,7 +33,7 @@
     "@aws-cdk/aws-cloudfront": "^1.180.0",
     "@aws-cdk/aws-route53": "^1.134.0",
     "@aws-cdk/aws-route53-targets": "^1.166.1",
-    "@aws-cdk/aws-s3-deployment": "^1.161.0",
+    "@aws-cdk/aws-s3-deployment": "^1.180.0",
     "@aws-cdk/core": "^1.175.0",
     "@types/istanbul-lib-report": "^3.0.0",
     "aws-cdk": "^2.34.2"

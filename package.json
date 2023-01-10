@@ -45,7 +45,7 @@
     "@typescript-eslint/parser": "^5.42.0",
     "@zeit/ncc": "^0.22.3",
     "eslint": "^8.31.0",
-    "eslint-plugin-github": "^4.4.0",
+    "eslint-plugin-github": "^4.6.0",
     "eslint-plugin-jest": "^27.1.6",
     "jest": "^28.1.2",
     "jest-circus": "^28.1.2",

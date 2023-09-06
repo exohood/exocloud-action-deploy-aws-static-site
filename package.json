@@ -31,7 +31,7 @@
     "@actions/core": "^1.10.0",
     "@aws-cdk/aws-certificatemanager": "^1.191.0",
     "@aws-cdk/aws-cloudfront": "^1.200.0",
-    "@aws-cdk/aws-route53": "^1.198.1",
+    "@aws-cdk/aws-route53": "^1.204.0",
     "@aws-cdk/aws-route53-targets": "^1.204.0",
     "@aws-cdk/aws-s3-deployment": "^1.203.0",
     "@aws-cdk/core": "^1.204.0",

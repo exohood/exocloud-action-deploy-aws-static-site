@@ -35,7 +35,7 @@
     "@aws-cdk/aws-route53-targets": "^1.204.0",
     "@aws-cdk/aws-s3-deployment": "^1.204.0",
     "@aws-cdk/core": "^1.204.0",
-    "@types/istanbul-lib-report": "^3.0.0",
+    "@types/istanbul-lib-report": "^3.0.1",
     "aws-cdk": "^2.94.0"
   },
   "devDependencies": {

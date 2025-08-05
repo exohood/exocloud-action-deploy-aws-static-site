@@ -41,7 +41,7 @@
   "devDependencies": {
     "@aws-cdk/assert": "^2.68.0",
     "@types/jest": "^30.0.0",
-    "@types/node": "^24.0.12",
+    "@types/node": "^24.2.0",
     "@typescript-eslint/parser": "^8.35.1",
     "@zeit/ncc": "^0.22.3",
     "eslint": "^9.32.0",
